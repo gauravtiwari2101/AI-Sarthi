@@ -1,0 +1,1 @@
+Extract AI_Sarthi_Antigravity_Historical_ROP_Data.zip into the SAME parent folder; merge folders. Also add both original 2026-27 districtwise PDFs to datasets/pdfs/; these PDFs were not supplied.
